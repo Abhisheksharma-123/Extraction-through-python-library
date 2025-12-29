@@ -1,5 +1,6 @@
 # Extraction-through-python-library of youtube
 🚀 Selenium Automation Project (Python)
+
 📌 Project Overview
 
 This project demonstrates web automation and testing using Python and Selenium.
@@ -49,6 +50,8 @@ Clean and readable automation scripts
  ┣ 📜 README.md
 
 ⚙️ How to Run the Project
+
+
 1️⃣ Install Required Libraries
 pip install selenium
 
@@ -62,6 +65,8 @@ Make sure the driver path is correctly set.
 
 3️⃣ Run the Notebook
 jupyter notebook selenium.ipynb
+
+
 
 🎯 Use Cases
 
@@ -77,6 +82,8 @@ QA & Testing practice
 
 Academic and personal projects
 
+
+
 💡 What I Learned
 
 Real-time browser automation
@@ -89,6 +96,9 @@ Writing maintainable automation scripts
 
 Understanding real-world testing workflows
 
+
+
+
 📈 Future Enhancements
 
 Add Page Object Model (POM)
@@ -100,6 +110,8 @@ Cross-browser testing
 Headless browser execution
 
 CI/CD integration
+
+
 
 👨‍💻 Author
 
